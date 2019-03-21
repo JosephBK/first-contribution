@@ -1,0 +1,9 @@
+{
+  "name": "first-contribution",
+  "private": true,
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "actions-toolkit": "^1.6.0"
+  }
+}
